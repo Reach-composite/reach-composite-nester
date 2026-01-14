@@ -46,7 +46,7 @@ const Rmmimages: React.FC = () => {
                 <div className="w-full bg-gray-100 p-2 flex items-center justify-center rounded">
                   <img
                     src={item.file}
-                    alt={`RMM image ${index + 1}`}
+                    alt={`REACH Composites Nester gallery image ${index + 1}`}
                     className="w-full h-auto object-contain"
                   />
                 </div>
