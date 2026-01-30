@@ -41,7 +41,7 @@ const BenefitsSection = () => {
           Benefits of REACH Composites Nester
         </h2>
         <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-          REACH Composites Nester
+          Best In Class Composites Nester Software
         </p>
         
         <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">

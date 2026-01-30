@@ -25,7 +25,7 @@ const Footer = () => {
               <span className="text-primary">REACH</span> Composites Nester
             </Link>
             <p className="text-gray-300 max-w-md">
-              The REACH Composites Nester
+              Best In Class Composite Nester Software
             </p>
 
             {/* Contact Icons Section */}
